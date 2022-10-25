@@ -1,0 +1,3 @@
+Q8-1- protection from unwanted access 
+   2- easier maintainability 
+ Q9- we have to access the "Id" variable by creating an object.
